@@ -65,3 +65,4 @@ int main()
     cout << m_index1 << " " << m_index1+M_length-1 << endl;
     return 0;
 }
+ 
