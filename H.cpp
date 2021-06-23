@@ -34,6 +34,7 @@ int main() {
             index += k;
         }
 
+        
     }
     cout << summa - sell << endl;
 
