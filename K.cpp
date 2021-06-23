@@ -73,6 +73,7 @@ int main()
                 cout << -1 << endl;
                 instructions.push_back({0, 0});
                 queue.push(front);
+                
             }
         }
     }
