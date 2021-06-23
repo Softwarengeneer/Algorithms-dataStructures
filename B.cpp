@@ -44,6 +44,7 @@ int main(){
     return 0;
 }
 
+
 void index_find(char c, int &ind, int &anim, int &cage) {
     if (!islower(c)) {
         ind = cage++;
