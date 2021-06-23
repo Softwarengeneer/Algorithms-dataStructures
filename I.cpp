@@ -36,6 +36,7 @@ int main(){
                 cur_machines_by_time.erase(it_to_del);
                 cur_machines_with_time.erase(machine_to_del);
             }
+            
         }
         else
         {
