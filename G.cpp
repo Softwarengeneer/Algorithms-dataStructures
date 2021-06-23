@@ -25,4 +25,3 @@ int main() {
     std::cout << values << std::endl;
 }
 
-//6 8 7 3 1 2 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
