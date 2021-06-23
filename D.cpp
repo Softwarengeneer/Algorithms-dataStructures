@@ -16,6 +16,7 @@ int main() {
         if (answer==a)break;
         answer = a;
     }
+    
     std::cout << answer << std::endl;
     return 0;
 }
