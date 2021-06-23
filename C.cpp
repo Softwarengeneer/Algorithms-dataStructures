@@ -7,6 +7,7 @@ std::vector<std::map<std::string, std::string>> y;
 void getChars(const std::string &ch, std::string &s1, std::string &s2);
 void push(const std::string &s1);
 int main() {
+    
 
     std::string ch;
     y.emplace_back();
