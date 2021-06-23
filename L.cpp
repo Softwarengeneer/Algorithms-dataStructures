@@ -2,6 +2,7 @@
 #include <algorithm>
 using namespace std;
 
+
 int line[3000000];
 int t[1000000];
 void build (int v, int tl, int tr) {
